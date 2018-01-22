@@ -25,7 +25,7 @@ Repository dedicated to learn and practice how to get started on developing iOS 
   
  - A combination of both a visual and a programmatic approach was employed in the design and development of this project. This allowed to include and show a rich variety of tools, aspects, and elements that made the project and the game itself more complete in terms of learning/teaching purposes.
  
- - **This Game Application does not intendt to show a full version of a real game but rather to lay out the path for SpriteKit beginners to get started on a hands-on project. Its main goal is to serve as a tutorial**
+ - **This Game Application does not intend to show a full version of a real game but rather to lay out the path for SpriteKit beginners to get started on a hands-on project. Its main goal is to serve as a tutorial**
 
 
 ## Additional Info
