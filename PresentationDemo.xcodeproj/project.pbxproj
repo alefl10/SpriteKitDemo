@@ -19,7 +19,7 @@
 		A90B41291FD8A50800919E5F /* BeachScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A90B41281FD8A50800919E5F /* BeachScene.sks */; };
 		A90B412B1FD8CD3800919E5F /* BurstParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = A90B412A1FD8CD3800919E5F /* BurstParticle.sks */; };
 		A90B412D1FD8CDC700919E5F /* burstsound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A90B412C1FD8CDC700919E5F /* burstsound.mp3 */; };
-		A9182BE01FD932D60042BD1B /* beachMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9182BDF1FD932D60042BD1B /* beachMusic.mp3 */; };
+		A97CF76F1FE60ECE0045C9D0 /* beachMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A97CF76E1FE60ECE0045C9D0 /* beachMusic.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +37,7 @@
 		A90B41281FD8A50800919E5F /* BeachScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BeachScene.sks; sourceTree = "<group>"; };
 		A90B412A1FD8CD3800919E5F /* BurstParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BurstParticle.sks; sourceTree = "<group>"; };
 		A90B412C1FD8CDC700919E5F /* burstsound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = burstsound.mp3; sourceTree = "<group>"; };
-		A9182BDF1FD932D60042BD1B /* beachMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = beachMusic.mp3; path = ../../../../../../../beachMusic.mp3; sourceTree = "<group>"; };
+		A97CF76E1FE60ECE0045C9D0 /* beachMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = beachMusic.mp3; path = ../../beachMusic.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +78,7 @@
 				A90B41281FD8A50800919E5F /* BeachScene.sks */,
 				A90B412A1FD8CD3800919E5F /* BurstParticle.sks */,
 				A90B41121FD8909200919E5F /* Actions.sks */,
-				A9182BDF1FD932D60042BD1B /* beachMusic.mp3 */,
+				A97CF76E1FE60ECE0045C9D0 /* beachMusic.mp3 */,
 				A90B412C1FD8CDC700919E5F /* burstsound.mp3 */,
 				A90B41181FD8909200919E5F /* Main.storyboard */,
 				A90B411B1FD8909200919E5F /* Assets.xcassets */,
@@ -153,7 +153,7 @@
 				A90B411F1FD8909200919E5F /* LaunchScreen.storyboard in Resources */,
 				A90B41291FD8A50800919E5F /* BeachScene.sks in Resources */,
 				A90B412D1FD8CDC700919E5F /* burstsound.mp3 in Resources */,
-				A9182BE01FD932D60042BD1B /* beachMusic.mp3 in Resources */,
+				A97CF76F1FE60ECE0045C9D0 /* beachMusic.mp3 in Resources */,
 				A90B412B1FD8CD3800919E5F /* BurstParticle.sks in Resources */,
 				A90B41131FD8909200919E5F /* Actions.sks in Resources */,
 			);
