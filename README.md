@@ -1,4 +1,5 @@
-<img src="https://pfriedrich.io/wp-content/uploads/2016/12/SpriteKit-Logo.png" alt="SpriteKit logo" height="200" >
+<img src="https://pfriedrich.io/wp-content/uploads/2016/12/SpriteKit-Logo.png" alt="SpriteKit logo" height="200">
+<img src="http://tut5.com/tutorials/ribbon_logo/img01.jpg" alt="Tutorial logo" height="200"> 
 
 # Description
 
